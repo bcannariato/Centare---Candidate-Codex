@@ -9,6 +9,7 @@ Most of the code examples are in C#, but we're not really asking you about anyth
 Some questions ask you to write code. We gave you a starting point in C# because it's our favorite, but you can write your answers *in any programming language*. Just let us know which one you used.
 
 ---
+###Question 1
 
 What does the following C# code output?
 
@@ -23,6 +24,7 @@ Console.WriteLine(acc);
 ```
 
 ---
+###Question 2
 
 What does the following C# code output?
 
@@ -37,6 +39,7 @@ Console.WriteLine("{0} {1}", a, b);
 ```
 
 ---
+###Question 3
 
 What does the following C# code output?
 
@@ -56,6 +59,7 @@ void Main()
 ```
 
 ---
+###Question 4
 
 Write a function that sorts an array of integers.
 
@@ -69,6 +73,7 @@ int[] SortArray(int[] input)
 ```
 
 ---
+###Question 5
 
 Write a function that returns only the digits 0-9 contained in a string.
 
@@ -82,7 +87,8 @@ string GetDigits(string input)
 ```
 
 ---
-	
+###Question 6
+
 Write a function that takes an array of `Widget` and outputs the number of widgets created on each day of the week (Monday, Tuesday, etc.).
 
 ```csharp
@@ -100,6 +106,7 @@ void CountByDayOfWeek(Widget[] input)
 ```
 
 ---
+###Question 7
 
 What does the following JavaScript code output?
 
@@ -117,6 +124,7 @@ console.log(i === j);
 Write a sentence or two explaining why this is.
 
 ---
+###Question 8
 
 Write a function that, given an integer for the width, prints a diamond. The user can select if the diamond is filled or outlined.
 
@@ -141,6 +149,7 @@ void PrintDiamond(int width, bool filled = true)
 ```
 
 ---
+###Question 9
 
 Which of these is a common way to get objects into a SQL database?
 
@@ -150,6 +159,7 @@ Which of these is a common way to get objects into a SQL database?
 * Object-Relational Mapping
 
 ---
+###Question 10
 
 What do you expect the value of x to be at the end of `Main()`?
 
@@ -178,6 +188,7 @@ void Main()
 * An error occurs
 
 ---
+###Question 11
 
 Assume that the URL `http://example.com/MessageOfTheDay` returns just a string; no HTML. Write a function that returns that string. Assume that any external libraries you want are there; just mention them in a comment.
 
@@ -189,6 +200,7 @@ string GetMessageOfTheDay()
 ```
 	
 ---
+###Question 12
 
 In the following code snippet, what pattern is being used to create the `OrderProcessor` class?
 
@@ -217,11 +229,17 @@ The rest of the questions refer to the database structure created in [schema.sql
 
 This database is for a very simple purchasing system. Only one product gets shipped per order, but customers must have an account before they can place an order. Some products are still in the database for archival purposes, but are not active for ordering.
 
+---
+
+###Question 13
+
 Write SQL queries that can answer each of the following questions:
 
 * Which users that have placed at least one order have the oldest accounts?
 * What is the current price value of the entire inventory of active products?
 * How many customers have ordered the product "Granola" at some point?
 * Which orders included products that sold at a different price than they are currently listed at?
+
+###Question 14
 
 * If we wanted to change the application to support having multiple products in each order, what changes (if any) would you recommend?
