@@ -11,7 +11,7 @@ Some questions ask you to write code. We gave you a starting point in C# because
 ---
 ###Question 1
 
-What does the following C# code output?
+What does the following C# code output? Briefly describe what this code is doing.
 
 ```csharp
 int[] myCollection = {3, 6, 9};
@@ -26,7 +26,7 @@ Console.WriteLine(acc);
 ---
 ###Question 2
 
-What does the following C# code output?
+What does the following C# code output? What is the main concept being demonstrated here?
 
 ```csharp
 int i = 3, j = 2;
@@ -41,7 +41,7 @@ Console.WriteLine("{0} {1}", a, b);
 ---
 ###Question 3
 
-What does the following C# code output?
+What does the following C# code output? What is special about the `Foo()` method and what are the consequences of that?
 
 ```csharp
 int Foo(int input)
@@ -108,7 +108,7 @@ void CountByDayOfWeek(Widget[] input)
 ---
 ###Question 7
 
-What does the following JavaScript code output?
+What does the following JavaScript code output? Write a sentence or two explaining why this is.
 
 ```javascript
 var i = 0, j = "0";
@@ -120,8 +120,6 @@ console.log(i === j);
 * false false
 * true true
 * An error occurs
-
-Write a sentence or two explaining why this is.
 
 ---
 ###Question 8
@@ -161,7 +159,7 @@ Which of these is a common way to get objects into a SQL database?
 ---
 ###Question 10
 
-What do you expect the value of x to be at the end of `Main()`?
+What do you expect the value of x to be at the end of `Main()`? Briefly explain your choice.
 
 ```csharp
 class Widget
