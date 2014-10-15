@@ -1,6 +1,6 @@
-# CAP Candidate Coding Exercise
+# Candidate Coding Exercise
 
-Thank you for your interest in Centare and our apprentice program! For the next step, we would like to learn more about your skills as a programmer and problem-solver.
+Thank you for your interest in Centare! For the next step, we would like to learn more about your skills as a programmer and problem-solver.
 
 Please read carefully and answer the questions below to the best of your ability. We intentionally put some expert-level stuff on here, so it's completely fine if you don't know an answer. But you're free to use any online resources to help you out.
 
